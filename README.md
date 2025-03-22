@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto de Orientção a Objeto </h1>
+<h1 align="center"> Projeto de Orientação a Objeto </h1>
 
 <p align="center">MotorSys</p>
 
