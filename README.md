@@ -8,4 +8,5 @@ Banco de dados *PostgreSQL*
 Integrando com *Hibernate*
 
 Hibernate foi utilizado para criação da tabelas dinamicamente.
-<img src="tables.jpg">
+
+<img src="C:\Users\arthu\OneDrive\Área de Trabalho\tables.png">
