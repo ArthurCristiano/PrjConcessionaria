@@ -14,6 +14,8 @@ O objetivo foi criar um sistema de gestão para uma concessionária de veículos
 
 O Hibernate foi utilizado para a criação dinâmica das tabelas no banco de dados.
 
+Também utilizado para realizar o CRUD e geração de relatórios dentro do sistema.  
+
 Utilizado bibliotecas como BufferedWriter e FileWriter para exportar os relários gerados para um .txt, salvando localmente no computador.
 
 Feito com ♥ por:
